@@ -26,6 +26,10 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": ""
+    "android": {
+      "package": "dev.afigurekim.simpletodo"
+    },
+    "description": "React Native clone coding project",
+    "githubUrl": "https://github.com/afigurekim/simple-todo-react-native"
   }
 }
